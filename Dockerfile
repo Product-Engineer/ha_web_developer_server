@@ -6,4 +6,4 @@ RUN npm install
 
 EXPOSE 7000
 
-CMD node main.js
+CMD node server.js
